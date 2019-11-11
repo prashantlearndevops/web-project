@@ -5,7 +5,7 @@
 
     Prashant kavekar
     prashant.kawe@gmail.com
-  
+    DevOps Engineer
 
 # THANKS
 
@@ -15,5 +15,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
-
+    Docker, Java Networking 
 
