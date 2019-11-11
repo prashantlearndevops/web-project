@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Prashant kavekar
+    prashant.kawe@gmail.com
+  
 
 # THANKS
 
@@ -13,3 +15,5 @@
 
     HTML5, CSS3
     jQuery, Modernizr
+
+
