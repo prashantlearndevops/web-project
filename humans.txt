@@ -5,7 +5,7 @@
 
     Prashant kavekar
     prashant.kawe@gmail.com
-  
+    DevOps Engineer
 
 # THANKS
 
@@ -14,6 +14,7 @@
 # TECHNOLOGY COLOPHON
 
     HTML5, CSS3
+
     jQuery, Machine Laring AWS Google Cloud
     
 
